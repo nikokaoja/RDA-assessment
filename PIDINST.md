@@ -12,11 +12,23 @@ By instrument, it was meant *measuring instrument*, which is defined by [VIM](ht
     "a device used for making measurements, alone or in conjunction with one or more supplementary devices"
 
 
+Accordingly, PIDINST WG developed a community-driven solution for persistent identification of instruments. Their initial work was based on 14 use cases which were assesses and a PIDINST metadata schema derived. The schema was prototyped using [DataCite](https://datacite.org/) and [ePIC](https://www.pidconsortium.net/).
 
-Accordingly, PIDINST WG developed a community-driven solution for persistent identification of instruments. Their initial work was based on 10 use cases which were assesses and a PIDINST metadata schema derived. The schema was prototyped using DataCite adn ePIC.
+The PID schema contains following instrument properties:
+
+- Identification
+- Instrument
+- Model
+- Owner
+- Manufacturer
+- Date
+- Capability
+- Output
+- Related Instrument
 
 
-Since wind energy community is heavily relient on the measurements of the meteorological conditions, ICOS seems to be a good candidate for reusing their solutions.
+
+The majority of the use cases (60%) originated from Earth Sciences domain. Since wind energy domain partially belongs to Earth Sciences domain it represents a strong candidate for the application of the PIDINST in terms of a direct reuse of the existing examples, especially those provided by ICOS ESFRI (Use Case no 8 in the [paper](https://datascience.codata.org/articles/10.5334/dsj-2020-018/)).
 
 ## Adoption of PIDINST schema - WindScanner user case
 
