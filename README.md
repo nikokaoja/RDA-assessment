@@ -17,6 +17,6 @@ The above survey results have been presented for:
 
 ## Adoption of RDA outputs
 
-The output of WG PIDINST is presented in [here](./PIDINST.md).
+The output of WG PIDINST is presented in [here](https://github.com/rdawg-pidinst/use-cases/blob/master/16-DTU-Wind-Energy.md).
 
 
